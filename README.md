@@ -64,6 +64,5 @@ $ pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git &
 -------------------------------------------------------------------------------------
 
 ### Development :
-
-Developer / Author: [bohemia_vicky](https://www.instagram.com/bohemia_vicky/)
-
+Penulisan Ulang: [bohemia_vicky](https://www.instagram.com/bohemia_vicky/)
+Thanks For LinuxChoice
