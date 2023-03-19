@@ -3,11 +3,11 @@
   </p>
   <br>
   
-######<p align="center">
-  <img src="https://user-images.githubusercontent.com/68543155/226185724-99172e56-6237-45f5-9b62-a00f39c6e7d7.gif" width="800" height="600">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68543155/226185724-99172e56-6237-45f5-9b62-a00f39c6e7d7.gif" width="1000" height="400">
   <br>
-</p>  
-  
+</p>
+
 ###### <p align="center">Dapatkan 100% Real Indonesia Followers<p align="center">
 <p align=center>
   <a href="(https://www.instagram.com/bohemia_vicky/"><img title="follow" src="https://img.shields.io/badge/bohemia%20vicky-%E2%99%A5-red" ></a>
