@@ -1,7 +1,5 @@
 <p align=center>
 ![malware2](https://user-images.githubusercontent.com/68543155/226185299-7f4860c5-15e4-468a-8517-d0839291293a.gif)
-</p>
-
 <br>
 
 <p align=center>
