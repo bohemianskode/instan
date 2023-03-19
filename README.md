@@ -1,5 +1,4 @@
-###### <p align="center"> ![malware2](https://user-images.githubusercontent.com/68543155/226185506-b3e1816e-5cbc-4732-8fc0-cbe09961abde.gif)
-<br>
+###### <p align="center"> ![malware2](https://user-images.githubusercontent.com/68543155/226185622-d83981fb-1eae-4421-91dd-6a70df9212e8.gif)
 
 <p align=center>
   <a href="https://www.instagram.com/bohemia_vicky/"><img title="INDONESIA" src="https://img.shields.io/badge/DARI%20ASAL-INDONESIA-SCRIPT?colorA=%23FF0000&colorB=%23FFFFFF&colorC=%23ff0000&style=for-the-badge"></a>
