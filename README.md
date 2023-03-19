@@ -12,11 +12,10 @@
 <p align=center>
   <a href="(https://www.instagram.com/bohemia_vicky/"><img title="follow" src="https://img.shields.io/badge/bohemia%20vicky-%E2%99%A5-red" ></a>
 
-
 ###### <p align="center"> *Jika Masih ada kesulitan dalam melakukannya silahkan kunjungi Instagram Saya dan Tidak Lupa untuk Follow Thanks*
-###### <p align="center"> *✌❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤✌*
+###### <p align="center"> *✌❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️✌*
 ###### <p align="center"> *✌Jangan Lupa Mampir ke [Instagram]((https://www.instagram.com/bohemia_vicky/)✌*
-
+  
 ###### <p align="center"> ![Bohemiahack](https://user-images.githubusercontent.com/68543155/226185528-6be4024b-aa36-49ea-abd5-b0237a2c7a72.gif)
 
 ### Apa Itu Instan
