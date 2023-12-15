@@ -46,7 +46,7 @@ $ pkg install git
 
 $ git clone https://github.com/bohemianskode/instan.git
 
-$ cd instarat
+$ cd instan
 
 $ chmod +x instan.sh
 
@@ -58,7 +58,7 @@ $ bash instan.sh
 * Cara Instal Keseluruhan Copy/Paste File di bawah ini Ke Termux anda
 
 ```
-$ pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git && git clone https://github.com/bohemianskode/instan.git && cd instarat && chmod +x instan.sh && termux-wake-lock && bash instan.sh
+$ pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git && git clone https://github.com/bohemianskode/instan.git && cd instan && chmod +x instan.sh && termux-wake-lock && bash instan.sh
 ```
 
 -------------------------------------------------------------------------------------
